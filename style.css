@@ -7,7 +7,7 @@ my-image {
         background-image: url("../rsschool-cv/IMG.jpg");
     }
 
-.body {
+body {
         font-family: 'Roboto', sans-serif;
         min-height: 100vh;
         margin: 0; padding: 0;
@@ -20,15 +20,15 @@ my-image {
         box-sizing: border-box;
 }
 
-header {
+.header {
         border: 1px solid red;
 }
 
-main {
+.main {
         border: 1px solid red;
 }
 
-footer {
+.footer {
         border: 1px solid red;
 }
 
