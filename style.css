@@ -34,7 +34,9 @@ main {
     }
 
 footer {
-    border: 5px solid rgb(41, 40, 44);
+    border: 10px solid rgba(48, 130, 32, 0.838);
+    background-color: rgba(48, 130, 32, 0.826);
+    float: right;
     }
 
 .container {
